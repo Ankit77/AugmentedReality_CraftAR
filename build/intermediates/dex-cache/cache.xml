@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/DATA/Tuffdemo/craftar-augmented-reality-sdk-android/libs/httpcore-4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="11393498b38e9695d0850cac26fde5613ae268b9">
+        <dex dex="/Volumes/DATA/Tuffdemo/craftar-augmented-reality-sdk-android/Examples/craftarexampleandroid/build/intermediates/pre-dexed/debug/httpcore-4.3-578f3a5b59be10797d97a12110d4cb2dd04f5252.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Tuffdemo/craftar-augmented-reality-sdk-android/libs/sanselan-0_97-android-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81dd9cc83f946a447f22f570c8303df82f55ed14">
+        <dex dex="/Volumes/DATA/Tuffdemo/craftar-augmented-reality-sdk-android/Examples/craftarexampleandroid/build/intermediates/pre-dexed/debug/sanselan-0_97-android-1.0.0-0b785faf194b2213069a22e4b57253b4af45621e.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Tuffdemo/craftar-augmented-reality-sdk-android/Examples/craftarexampleandroid/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Volumes/DATA/Tuffdemo/craftar-augmented-reality-sdk-android/Examples/craftarexampleandroid/build/intermediates/pre-dexed/debug/classes-894ac040bba6cd8834c664dd0fec797814a89075.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Tuffdemo/craftar-augmented-reality-sdk-android/libs/httpmime-4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b0002c5fb66867ca919be0fbd86de1cfaf76da7">
+        <dex dex="/Volumes/DATA/Tuffdemo/craftar-augmented-reality-sdk-android/Examples/craftarexampleandroid/build/intermediates/pre-dexed/debug/httpmime-4.3-b4ef45087daf754b6ef2772a5de986006ce6f597.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Tuffdemo/craftar-augmented-reality-sdk-android/Examples/craftarexampleandroid/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Volumes/DATA/Tuffdemo/craftar-augmented-reality-sdk-android/Examples/craftarexampleandroid/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-0f0c205de3aec0dfe4a5df76830dc47d9d6f715f.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Tuffdemo/craftar-augmented-reality-sdk-android/libs/craftar-augmented-reality-sdk-android.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1dae3305150520e8979c510b2a8089dfc26273dc">
+        <dex dex="/Volumes/DATA/Tuffdemo/craftar-augmented-reality-sdk-android/Examples/craftarexampleandroid/build/intermediates/pre-dexed/debug/craftar-augmented-reality-sdk-android-031dcaf7a03f434a7262c0448bb17493dae98264.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/AndroidTool/AndroidWearable/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Volumes/DATA/Tuffdemo/craftar-augmented-reality-sdk-android/Examples/craftarexampleandroid/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-e33b87884fa416cedc0a57a0b693ab596a8749e8.jar" />
+    </item>
+
+</items>
